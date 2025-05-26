@@ -14,10 +14,7 @@
 
 ###
 
-<h1 align="center">👋 Hey there!</h1>
-
-###
-
+<h1>👋 Hey there!</h1>
 <h3 align="left">I'm a web developer who enjoys keeping life simple and code clean. I spend my days building things for the web and my evenings laughing at warm, wholesome jokes (the cheesier, the better 🍕).<br><br>I love:<br>    Writing clean, readable code 🧼<br>    Learning new things (especially in technical skill)<br>    Sharing smiles through small, joyful moments 😄<br><br>Let’s build cool stuff and have a laugh along the way.</h3>
 
 ###
