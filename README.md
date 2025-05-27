@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as Back-End Developer<br>- 📚 I'm currently learning Svelte<br>- ⚡ In my free time I love to do Front-End Stuff</p>
+<p align="left">🔭 I’m working as Back-End Developer<br>📚 I'm currently learning Svelte<br>⚡ In my free time I love to do Front-End Stuff</p>
 
 ###
 
